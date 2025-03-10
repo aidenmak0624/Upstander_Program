@@ -27,16 +27,17 @@ To get a local copy of the repository up and running on your machine, follow the
 
 ```bash
 git clone https://github.com/aidenmak0624/Upstander_Program_um.git
-
+```
+```bash
 ### 1. Install Dependancy 
 pip install -r requirements.txt
-
+```
+```bash
 ### 3. Run the app
 streamlit run app.py
-
+```
 ### Acknowledgements
-
-The project is inspired by the Upstander Program from the Manitoba Human Rights Museum.
+This project is part of an educational initiative, credited by the Upstander Program from the Manitoba Human Rights Museum.
 Special thanks to our team members for their contributions:
 Chin Wei, Mak (7951379)
 Rafia Rafa Islam (7870927)
