@@ -28,12 +28,12 @@ To get a local copy of the repository up and running on your machine, follow the
 ```bash
 git clone https://github.com/aidenmak0624/Upstander_Program_um.git
 ```
+### 2. Install dependancy 
 ```bash
-### 1. Install Dependancy 
 pip install -r requirements.txt
 ```
-```bash
 ### 3. Run the app
+```bash
 streamlit run app.py
 ```
 ### Acknowledgements
