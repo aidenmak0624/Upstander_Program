@@ -4,7 +4,7 @@
 **Date:** March 6, 2025  
 **Author:** Chin Wei, Mak  
 **Version:** Research - Prototype  
-**Document Directory:** [Detailed Document]([https://github.com/aidenmak0624/Upstander_Program_um](https://docs.google.com/document/d/16svindpb9V2e3pSFwn77sz4s2beZzEyTv2lwSOI6-7c/edit?usp=sharing))
+**Document Directory:** [Detailed Document](https://docs.google.com/document/d/16svindpb9V2e3pSFwn77sz4s2beZzEyTv2lwSOI6-7c/edit?usp=sharing)
 
 ---
 
