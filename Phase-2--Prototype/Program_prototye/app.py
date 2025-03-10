@@ -48,7 +48,7 @@ def clear_database():
 
 
     
-genai.configure(api_key="AIzaSyA631m9pmVs_55BFid10ju6AU7BD2gVBcA")  # Replace with your API key
+genai.configure(api_key="API_KEY)  # Replace with your API key
 
 def get_ai_response(user_input):
     try:
