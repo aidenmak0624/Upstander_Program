@@ -38,6 +38,7 @@ streamlit run app.py
 ```
 ### Acknowledgements
 This project is part of an educational initiative, credited by the Upstander Program from the Manitoba Human Rights Museum.
+
 Special thanks to our team members for their contributions:
 Chin Wei, Mak (7951379)
 Rafia Rafa Islam (7870927)
