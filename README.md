@@ -50,7 +50,7 @@ To get a local copy of the repository up and running on your machine, follow the
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/aidenmak0624/Upstander_Program_um.git
+git clone https://github.com/aidenmak0624/Upstander_Program.git
 ```
 
 ### 2. Install dependencies
